@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zocket</string>
+
+    <string name="facebook_app_id">848000862784921</string>
+    <string name="fb_login_protocol_scheme">fb848000862784921</string>
+    <string name="name">Name</string>
+    <string name="page_name">Page Name:</string>
+    <string name="categories">Category:</string>
+    <string name="tasks">Tasks</string>
+    <string name="username">User name: </string>
+    <string name="logout">Logout</string>
+
+</resources>

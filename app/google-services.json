@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1014207711023",
+    "project_id": "zocket-ce8a6",
+    "storage_bucket": "zocket-ce8a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014207711023:android:8921c6e2a12447acf443da",
+        "android_client_info": {
+          "package_name": "com.mad.zocket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014207711023-f6i6iukamiv8bqp3oj6qi2s75u75d30q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mad.zocket",
+            "certificate_hash": "373a32aaf56bc3442093693cb1948e41a27964eb"
+          }
+        },
+        {
+          "client_id": "1014207711023-1qj52cerb9v1pd9rbtldm06iacud6l31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtPpCXsZUkGJ5-s67gp35cDWhIGiYQBw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014207711023-1qj52cerb9v1pd9rbtldm06iacud6l31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
